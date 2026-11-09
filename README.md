@@ -2,6 +2,8 @@
 
 FLEY AI-Voce — голосовой AI-ассистент, который не только будет с вами разговаривать, но и сможет управлять вашим Телефоном
 
+FLEY AI-Voce is an open-source AI voice assistant project designed to control your computer (PC) rather than a smartphone.
+
 Всё для того, чтобы автоматизировать и сделать ваш девайс и устройство, например комп и телефон, умным, как робот.
 
 Everything to automate and make your device, like a PC and phone, smart as a robot.
