@@ -1,5 +1,17 @@
 # FLEY AI для Android (APK)
 
+
+![Image description](photoapk/1.jpg)
+
+![Image description](photoapk/2.jpg)
+
+![Image description](photoapk/3.jpg)
+
+![Image description](photoapk/4.jpg)
+
+![Image description](photoapk/5.jpg)
+
+
 Отдельная версия для телефонов: свой код (Kotlin), без лишних библиотек, оптимизирована (R8). Размер APK около 1–2 МБ.
 Версия для ПК (C++) остаётся отдельно.
 
