@@ -8,6 +8,10 @@ FLEY AI-Voce is an open-source AI voice assistant project designed to control yo
 
 Everything to automate and make your device, like a PC and phone, smart as a robot.
 
+Download Site https://fleyai.netlify.app/
+
+Downlaod https://www.mediafire.com/file/d9fqtajnd9zlcrg/FLEY_AI.apk/file
+
 ![Image description](photoapk/3.jpg)
 
 ![Image description](photoapk/4.jpg)
