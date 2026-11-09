@@ -12,6 +12,8 @@ Everything to automate and make your device, like a PC and phone, smart as a rob
 
 ![Image description](photoapk/4.jpg)
 
+TG download https://t.me/fleyai .apk and .exe PC Windows/Phone Android
+
 
 Отдельная версия для телефонов: свой код (Kotlin), без лишних библиотек, оптимизирована (R8). Размер APK около 1–2 МБ.
 Версия для ПК (C++) остаётся отдельно.
