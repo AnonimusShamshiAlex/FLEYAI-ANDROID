@@ -4,6 +4,8 @@ FLEY AI-Voce — голосовой AI-ассистент, который не �
 
 Всё для того, чтобы автоматизировать и сделать ваш девайс и устройство, например комп и телефон, умным, как робот.
 
+Everything to automate and make your device, like a PC and phone, smart as a robot.
+
 ![Image description](photoapk/3.jpg)
 
 ![Image description](photoapk/4.jpg)
