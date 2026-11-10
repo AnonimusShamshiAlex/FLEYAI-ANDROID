@@ -10,7 +10,7 @@ Everything to automate and make your device, like a PC and phone, smart as a rob
 
 Download Site https://fleyai.netlify.app/
 
-Download https://www.mediafire.com/file/rxaa6qzd3vpdj6p/FLEY_AI2.0.apk/file
+Download https://www.mediafire.com/file/pkmd1ju0mnvq4rr/FLEYAI2v.apk/file
 
 ![Image description](photoapk/3.jpg)
 
