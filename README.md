@@ -2,7 +2,7 @@
 
 ![Image description](photoapk/1221.png)
 
-![Image description](photoapk/322.png)
+![Image description](photoapk/332.png)
 
 FLEY AI-Voce — голосовой AI-ассистент, который не только будет с вами разговаривать, но и сможет управлять вашим Телефоном
 
