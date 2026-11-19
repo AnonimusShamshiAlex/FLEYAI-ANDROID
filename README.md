@@ -1,5 +1,9 @@
 # FLEY AI для Android (APK)
 
+![Image description](photoapk/1221.jpg)
+
+![Image description](photoapk/322.jpg)
+
 FLEY AI-Voce — голосовой AI-ассистент, который не только будет с вами разговаривать, но и сможет управлять вашим Телефоном
 
 FLEY AI-Voce is an open-source AI voice assistant project designed to control your computer (PC) rather than a smartphone.
