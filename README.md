@@ -2,8 +2,6 @@
 
 ![Image description](photoapk/1221.png)
 
-![Image description](photoapk/332.png)
-
 FLEY AI-Voce — голосовой AI-ассистент, который не только будет с вами разговаривать, но и сможет управлять вашим Телефоном
 
 FLEY AI-Voce is an open-source AI voice assistant project designed to control your computer (PC) rather than a smartphone.
@@ -23,8 +21,8 @@ Download https://www.mediafire.com/file/pkmd1ju0mnvq4rr/FLEYAI2v.apk/file
 TG download https://t.me/fleyai .apk and .exe PC Windows/Phone Android
 
 
-Отдельная версия для телефонов: свой код (Kotlin), без лишних библиотек, оптимизирована (R8). Размер APK около 1–2 МБ.
-Версия для ПК (C++) остаётся отдельно.
+![Image description](photoapk/332.png)
+
 
 ## Как получить APK (на Windows, один клик)
 1. Запустите **build_apk.bat**. В первый раз он сам скачает JDK 17, Android SDK и Gradle (около 1 ГБ, нужен интернет), потом собирает быстро.
